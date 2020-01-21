@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test2.SoftandHardAssertion" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-21T15:41:07" hostname="DESKTOP-KQDSH1M" time="2.497">
+  <properties/>
+  <testcase name="veryfingPresenceSoft" classname="com.test2.SoftandHardAssertion" time="2.497"/>
+  <system-out><![CDATA[START!
+the tab text is Home and the disered text is Home
+the tab text is About and the disered text is About
+the tab text is Contact Us and the disered text is Contact Us
+the tab text is Portfolio and the disered text is Portfolio
+the tab text is Gallery and the disered text is Gallery
+END!
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 44406
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+янв. 21, 2020 6:41:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

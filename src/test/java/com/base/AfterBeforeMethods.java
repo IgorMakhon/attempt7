@@ -17,5 +17,6 @@ public class AfterBeforeMethods {
     @AfterMethod(alwaysRun = true)
     protected void destroyDriver() {
         driver.quit();
+        System.out.println("END!");
     }
 }

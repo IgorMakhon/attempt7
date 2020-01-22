@@ -16,7 +16,7 @@ import java.util.List;
 public class SoftandHardAssertion extends AfterBeforeMethods {
         private String URLforTest="http://the-internet.herokuapp.com/disappearing_elements";
         List<String> elements = new ArrayList<String>();
-        @Test
+       /* @Test
         public void veryfingPresenceHard() {
             preTest();
             //open the page
@@ -32,7 +32,7 @@ public class SoftandHardAssertion extends AfterBeforeMethods {
                 String desiredName = elements.get(i);
                 Assert.assertTrue(tabLabel.equals(desiredName),"the tab "+tabLabel+" is not equal to the "+ desiredName);
             }
-        }
+        }*/
 
         @Test
         public void veryfingPresenceSoft() {

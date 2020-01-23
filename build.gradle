@@ -20,6 +20,7 @@ dependencies {
 test {
     useTestNG()
 }
-task wrapper1(type: Wrapper) {
+wrapper {
     gradleVersion = '6.1'
+    distributionUrl = distributionUrl.replace("bin", "all")
 }

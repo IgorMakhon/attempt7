@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test1.WaitForElement" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-05T15:24:53" hostname="DESKTOP-KQDSH1M" time="7.189">
+  <properties/>
+  <testcase name="checkHelloWorld" classname="com.test1.WaitForElement" time="7.189"/>
+  <system-out><![CDATA[START!
+END!
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 31895
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+февр. 05, 2020 6:24:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
